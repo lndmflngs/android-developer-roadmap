@@ -24,11 +24,10 @@
   * View
       * Button, ImageView, TextView, EditText etc
   * ViewGroup
-  	   * LinearLayout, RelativeLayout, FrameLayout, ConstraintLayout
+  	   * FrameLayout, LinearLayout, RelativeLayout, ConstraintLayout
 * Dynamic User Interface
    * RecyclerView
    * ViewPager
-   * Spinner
 * CustomView
    * Canvas
    * Bitmap
@@ -67,14 +66,13 @@
   * Image Loading
      * Glide
   * Networking
-     * Fast Android Networking Library
      * Retrofit
   * MultiThreading
      * Coroutines 
 * Data Format
   * JSON
-     * GSON
      * MOSHI    
+     * GSON
   * Flat Buffer
   * Protocol Buffer
 * Android Jetpack
@@ -84,7 +82,6 @@
   * Architecture Components
      * LiveData
      * ViewModel
-     * DataBinding
      * Paging
      * Work Manager
      * Navigation
